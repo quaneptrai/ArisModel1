@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLqeWOmCuL4=",
+  "success": true,
+  "projectFilePath": "C:\\Aris\\TestTing\\TestTing\\TestTing.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quandm1\\.nuget\\packages\\fsharp.core\\9.0.300\\fsharp.core.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

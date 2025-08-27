@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aris\\ArisBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\aris\\arisbackend\\aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\aris\\arisbackend\\aris3.0\\aris3.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\aris3.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\aris\\arisbackend\\aris3.0\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|c:\\aris\\arisbackend\\aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E684B719-3D7E-4103-B95A-533CC31DDDE7}|Aris3.0\\Aris3.0.csproj|solutionrelative:aris3.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|c:\\aris\\arisbackend\\aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF75373-9867-4038-A19C-453ABCB8B4E1}|Aris3.0.Infrastructure\\Aris3.0.Infrastructure.csproj|solutionrelative:aris3.0.infrastructure\\data\\context\\arisdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|c:\\aris\\arisbackend\\aris3.0.application\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2238B6B-3487-4483-9904-02A9F966A70B}|Aris3.0.Application\\Aris3.0.Application.csproj|solutionrelative:aris3.0.application\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Aris\\ArisBackEnd\\Aris3.0\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Aris3.0\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Aris\\ArisBackEnd\\Aris3.0\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Aris3.0\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T02:17:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aris3.0",
+              "DocumentMoniker": "C:\\Aris\\ArisBackEnd\\Aris3.0\\Aris3.0.csproj",
+              "RelativeDocumentMoniker": "Aris3.0\\Aris3.0.csproj",
+              "ToolTip": "C:\\Aris\\ArisBackEnd\\Aris3.0\\Aris3.0.csproj",
+              "RelativeToolTip": "Aris3.0\\Aris3.0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T02:16:46.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aris\\ArisBackEnd\\Aris3.0\\Program.cs",
+              "RelativeDocumentMoniker": "Aris3.0\\Program.cs",
+              "ToolTip": "C:\\Aris\\ArisBackEnd\\Aris3.0\\Program.cs",
+              "RelativeToolTip": "Aris3.0\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:15:25.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArisDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Aris\\ArisBackEnd\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "ToolTip": "C:\\Aris\\ArisBackEnd\\Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "RelativeToolTip": "Aris3.0.Infrastructure\\Data\\Context\\ArisDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAADRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:09:29.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Aris\\ArisBackEnd\\Aris3.0\\appsettings.json",
+              "RelativeDocumentMoniker": "Aris3.0\\appsettings.json",
+              "ToolTip": "C:\\Aris\\ArisBackEnd\\Aris3.0\\appsettings.json",
+              "RelativeToolTip": "Aris3.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T02:09:14.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Aris\\ArisBackEnd\\Aris3.0.Application\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Aris3.0.Application\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Aris\\ArisBackEnd\\Aris3.0.Application\\Service\\EmailService.cs",
+              "RelativeToolTip": "Aris3.0.Application\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:59:31.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
